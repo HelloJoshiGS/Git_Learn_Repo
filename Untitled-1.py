@@ -8,8 +8,3 @@ else:
 
 value = ["Branch", "BranchTwo"]
 
-for i in value:
-    if "Branch" in value:
-        print("Success")
-    else:
-        print("Not Success")    
