@@ -1,1 +1,0 @@
-print("SCT_DEMO Automation")
